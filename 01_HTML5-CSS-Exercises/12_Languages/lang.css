@@ -1,0 +1,17 @@
+body{
+    background: #EEE;
+    line-height: 1.5em;
+    font-size: 24pt;
+}
+
+p{
+    line-height: 160%;
+
+}
+
+span{
+    border: 1px solid #AAA;
+    border-radius: 10px;
+    background: #CCC;
+    padding: 5px;
+}

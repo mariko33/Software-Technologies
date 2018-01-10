@@ -1,0 +1,28 @@
+p{
+    background-color: #D3D3D3;
+    border-radius: 20px;
+    width: 35%;
+    height: 35px;
+    text-align: center;
+
+    font-size: 30px;
+
+}
+#red{
+    color: red;
+}
+#green{
+    color: green;
+}
+#blue{
+    color: blue;
+}
+#red-par{
+    border: 2px solid red;
+}
+#green-par{
+    border: 2px solid green;
+}
+#blue-par{
+    border: 2px solid blue;
+}
